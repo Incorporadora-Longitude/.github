@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.longitude.com.br/" target="_blank">
-    <img src="./cover.jpg" width="120" alt="Longitude Incorporadora" />
+    <img src="./cover.jpg" width="100%" height="auto" alt="Longitude Incorporadora" />
   </a>
 </p>
 
